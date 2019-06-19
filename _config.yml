@@ -13,6 +13,8 @@ baseurl: ""
 title: Richard Feder
 
 avatar: /img/avatar.jpg
+avatar-width: 40
+avatar-height: 40
 
 # --- Navigation bar options --- #
 
