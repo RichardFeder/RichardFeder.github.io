@@ -9,6 +9,6 @@ I am currently a first year graduate student in physics at Caltech. Before this 
 <p>
   When I am not doing research, I enjoy playing music. I play sax in the Caltech Jazz Band currently. I also enjoy hiking and biking.
   
-  <img src="img/caltech_jazz.jpg">
+  <img src="img/caltech_jazz.jpg" style="width:500px;height:400px;>
 </p>
   
