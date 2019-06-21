@@ -17,3 +17,5 @@ I am currently a first year graduate student in physics at Caltech. Before this 
     </figcaption>
   </figure>
   
+
+<img src="./img/coronaAustralis_l1500.jpg" alt="milky way image">
