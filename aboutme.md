@@ -9,10 +9,11 @@ I am currently a first year graduate student in physics at Caltech. Before this 
 <p>
   When I am not doing research, I enjoy playing music. I play sax in the Caltech Jazz Band currently. I also enjoy hiking and biking.
  </p>
-
+<p align="middle">
   <figure>
   <img src="./img/caltech_jazz.jpg" width="400" alt="Playing at the Caltech Jazz Festival"/>
     <figcaption>
       Caltech Jazz Festival, 2019.
     </figcaption>
   </figure>
+</p>
