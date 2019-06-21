@@ -13,9 +13,6 @@ I am currently a first year graduate student in physics at Caltech. Before this 
   <figure>
   <img src="./img/caltech_jazz.jpg" width="400" alt="Playing at the Caltech Jazz Festival"/>
     <figcaption>
-      Me playing at the Caltech Jazz Festival, 2019.
+      Caltech Jazz Festival, 2019.
     </figcaption>
   </figure>
-  
-
-<img src="./img/coronaAustralis_l1500.jpg" alt="milky way image">
