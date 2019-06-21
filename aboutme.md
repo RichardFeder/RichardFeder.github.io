@@ -11,7 +11,8 @@ I am currently a first year graduate student in physics at Caltech. Before this 
  </p>
 <p align="center">
   <figure>
-  <img src="./img/caltech_jazz.jpg" width="400" alt="Playing at the Caltech Jazz Festival" />
+  <img src="m2.jpg" width="400" alt="Playing at the Caltech Jazz Festival" />
+<!--   <img src="./img/caltech_jazz.jpg" width="400" alt="Playing at the Caltech Jazz Festival" /> -->
     <figcaption>
       Caltech Jazz Festival, 2019.
     </figcaption>
