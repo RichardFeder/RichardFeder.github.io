@@ -2,7 +2,7 @@
 layout: default
 title: Research
 ---
-<div class="text-center">
+<div class="text-left">
   <h2 class="post-title">Deep generative modeling for fast cosmological simulations</h2>
   In collaboration with <a href="https://science.jpl.nasa.gov/people/PBerger/">Philippe Berger</a> and <a href="https://www.cita.utoronto.ca/~gstein/">George Stein</a>
   <br>
