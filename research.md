@@ -2,7 +2,6 @@
 layout: default
 title: Research
 ---
-<html>
 <div class="text-center">
   <h2 class="post-title">Deep generative modeling for fast cosmological simulations</h2>
   In collaboration with <a href="https://science.jpl.nasa.gov/people/PBerger/">Philippe Berger</a> and <a href="https://www.cita.utoronto.ca/~gstein/">George Stein</a>
@@ -16,7 +15,7 @@ title: Research
     sufficient angular resolution to distinguish this population of newly observed sources. This means <i>a significant fraction of future observations will suffer from blending!</i>
     <br>
   </p>
-    <img src="img/m2.jpg" alt="Messier 2"/>
+    <img src='img/m2.jpg' alt="Messier 2"/>
   <p>
     Probabilistic cataloging (PCAT) has been proposed as a viable framework to address these problems. PCAT is a Bayesian, hierarchical, and transdimensional sampler designed to explore the 
     space of different catalogs consistent with an observed image. Because the number of objects and in an image may not be known <i>a priori</i>, exploring the "catalog space" involves exploring models with different numbers
@@ -47,5 +46,3 @@ title: Research
   Paper can be found <a href="https://iopscience.iop.org/article/10.1088/0004-637X/790/1/16">here</a>.
   
 </div>
-
-</html>
