@@ -15,7 +15,9 @@ title: Research
     sufficient angular resolution to distinguish this population of newly observed sources. This means <i>a significant fraction of future observations will suffer from blending!</i>
     <br>
   </p>
-    <img src='img/m2.jpg' alt="Messier 2"/>
+  <figure>
+  <img src='img/m2.jpg' alt="Messier 2"/>
+  </figure>
   <p>
     Probabilistic cataloging (PCAT) has been proposed as a viable framework to address these problems. PCAT is a Bayesian, hierarchical, and transdimensional sampler designed to explore the 
     space of different catalogs consistent with an observed image. Because the number of objects and in an image may not be known <i>a priori</i>, exploring the "catalog space" involves exploring models with different numbers
