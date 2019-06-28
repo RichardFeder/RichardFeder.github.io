@@ -24,6 +24,10 @@ title: Research
     Carlo (RJ-MCMC, see <a href="https://pdfs.semanticscholar.org/c440/ea3bbb7fc8dcaa069ea550011ea65ac33fd4.pdf">Green 1995</a>).
   </p>
   <p>
+  <h3>Multiband Probabilistic Cataloging</h3>
+  PCAT has been shown to outperform traditional cataloging methods on single-band optical data in crowded fields (see <a href="https://arxiv.org/abs/1703.01303">Portillo et al. 2017</a>). For my senior thesis, I worked on extending PCAT to the case of multiband observations. By jointly fitting data from multiple bands, point source detection can directly be enhanced through higher effective signal-to-noise. In addition, one can begin to use additional information in the form of color priors to inform PCAT's hierarchical model. We find that, while our fit is sensitive to the astrometric calibration of the observed data across bands, our two-band fits on $r+i$ go 0.4 mag deeper than the corresponding single-band fit of the same cutout from Messier 2, with lower false discovery rates down to $r\sim 20.5$. When compared to DAOPHOT, a commonly used software for crowded-field photometry, our multiband catalog goes nearly 1.5 mag deeper <i>using the same data</i>!  
+  </p>
+  <p>
   <h3>Application to the Chandra Deep Field - South Survey</h3>
     I work with Tansu Daylan on the application of probabilistic cataloging to X-ray data, focusing specifically on 
     observations from the <a href="https://en.wikipedia.org/wiki/Chandra_Deep_Field_South">Chandra Deep Field - South Survey (CDF-S).</a>
