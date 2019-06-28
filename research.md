@@ -24,6 +24,7 @@ title: Research
     Carlo (RJ-MCMC, see <a href="https://pdfs.semanticscholar.org/c440/ea3bbb7fc8dcaa069ea550011ea65ac33fd4.pdf">Green 1995</a>).
   </p>
   <p>
+  <h3>Application to the Chandra Deep Field - South Survey</h3>
     I work with Tansu Daylan on the application of probabilistic cataloging to X-ray data, focusing specifically on 
     observations from the <a href="https://en.wikipedia.org/wiki/Chandra_Deep_Field_South">Chandra Deep Field - South Survey (CDF-S).</a>
     CDF-S has been observed for over 8 Ms (the longest exposure of any field taken by the Chandra X-ray telescope), and will be the deepest observation of the extragalactic
