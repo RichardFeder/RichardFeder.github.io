@@ -12,7 +12,7 @@ I am currently a first year graduate student in physics at Caltech. Before this 
 <p align="center">
   <figure>
 <!--   <img src="img/m2_lores.jpg" width="400" alt="Playing at the Caltech Jazz Festival" /> -->
-  <img src="{{'./img/caltech_jazz.jpg' | relative_url }}" width="400" alt="Playing at the Caltech Jazz Festival" />
+  <img src="{{'./img/caltech_jazz.jpg'}}" width="400" alt="Playing at the Caltech Jazz Festival" />
 <!--     img src="{{ 'img/404-southpark.jpg' | relative_url }}" -->
     <figcaption>
       Caltech Jazz Festival, 2019.
