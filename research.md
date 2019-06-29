@@ -17,7 +17,7 @@ title: Research
   </p>
   <p align="center">
   <figure>
-  <img src='./img/m2.jpg' alt="Messier 2"/>
+  <img src='/img/m2_lores.jpg' alt="Messier 2"/>
   </figure>
   </p>
   <p>
