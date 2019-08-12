@@ -62,7 +62,7 @@ title: Research
   </figure>
   </p>
 </div>
-  
+<div class="text-left">  
   <p>
   <h3>Application to the Chandra Deep Field - South Survey</h3>
     I work with Tansu Daylan on the application of probabilistic cataloging to X-ray data, focusing specifically on 
