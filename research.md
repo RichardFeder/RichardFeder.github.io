@@ -40,7 +40,7 @@ title: Research
   </figure>
   </p>
   </div>
-  <div class="text-center">
+  <div class="text-left">
   <p>
     Probabilistic cataloging (PCAT) has been proposed as a viable framework to address these problems. PCAT is a Bayesian, hierarchical, and transdimensional sampler designed to explore the 
     space of different catalogs consistent with an observed image. Because the number of objects and in an image may not be known <i>a priori</i>, exploring the "catalog space" involves exploring models with different numbers
