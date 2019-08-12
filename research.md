@@ -6,6 +6,16 @@ title: Research
   <h2 class="post-title">Data driven cosmological emulation using deep generative modeling</h2>
   In collaboration with <a href="https://science.jpl.nasa.gov/people/PBerger/">Philippe Berger</a> and <a href="https://www.cita.utoronto.ca/~gstein/">George Stein</a>
   <br>
+  
+  <p align="center">
+  <figure>
+  <img src='/img/test.jpg' alt="Subvols"/>
+    <figcaption>
+      Visualizations of 64 Mpc3 GADGET-2 sub- volumes (left), along with samples generated with a standard deep convolutional generative adversarial network (DCGAN) (middle) and Wasserstein GAN with gradient penalty (WGAN-GP) (right). Color scale denotes position along x-axis.
+    </figcaption>
+  </figure>
+  </p>
+  
   <h2 class="post-title">Probabilistic Cataloging</h2>
   Supervised by <a href="https://faun.rc.fas.harvard.edu/nebel/dfink//">Douglas Finkbeiner</a>, in collaboration with <a href="http://portillo.ca/">Stephen Portillo</a> and <a href="tansudaylan.com">Tansu Daylan</a>
   <p>
