@@ -11,6 +11,7 @@ title: Research
   <p align="center">
   <figure>
   <img width="500" align="center" src='/img/test.jpg' alt="Subvols"/>
+    <br>
     <figcaption>
       Visualizations of 64 Mpc3 GADGET-2 subvolumes (left column), along with samples generated with a standard deep convolutional generative adversarial network (DCGAN) (middle) and Wasserstein GAN with gradient penalty (WGAN-GP) (right). Color scale denotes position along x-axis.
     </figcaption>
@@ -26,7 +27,9 @@ title: Research
     fairly straightforward task. However, things get complicated in crowded fields. Below is an observation of the globular cluster <a href="https://en.wikipedia.org/wiki/Messier_2">Messier 2</a>. When objects blend together, 
     determining their properties to percent-level precision becomes a much more daunting task. Next generation telescopes like LSST, HSC, WFIRST will have improved sensitivity to pick up faint sources, but will not have 
     sufficient angular resolution to distinguish this population of newly observed sources. This means <i>a significant fraction of future observations will suffer from blending!</i>
-    <br>
+    <
+  
+  >
   </p>
   <p align="center">
   <figure>
