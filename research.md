@@ -7,6 +7,7 @@ title: Research
   In collaboration with <a href="https://science.jpl.nasa.gov/people/PBerger/">Philippe Berger</a> and <a href="https://www.cita.utoronto.ca/~gstein/">George Stein</a>
   <br>
 </div>
+<div class="text-center">
   <p align="center">
   <figure>
   <img width=500 src='/img/test.jpg' alt="Subvols"/>
@@ -15,6 +16,7 @@ title: Research
     </figcaption>
   </figure>
   </p>
+ </div>
  <div class="text-left">
   
   <h2 class="post-title">Probabilistic Cataloging</h2>
