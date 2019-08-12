@@ -17,7 +17,10 @@ title: Research
   </p>
   <p align="center">
   <figure>
-  <img width="400" src='/img/m2_lores.jpg' alt="Messier 2"/>
+  <img src='/img/m2_lores.jpg' alt="Messier 2"/>
+    <figcaption>
+      Messier 2, a globular cluster 11.5 kpc away containing over 150,000 stars.
+    </figcaption>
   </figure>
   </p>
   <p>
