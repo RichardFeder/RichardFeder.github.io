@@ -13,7 +13,7 @@ title: Research
   <img width="500" align="center" src='/img/test.jpg' alt="Subvols"/>
     <br>
     <figcaption>
-      Visualizations of 64 Mpc3 GADGET-2 subvolumes (left column), along with samples generated with a standard deep convolutional generative adversarial network (DCGAN) (middle) and Wasserstein GAN with gradient penalty (WGAN-GP) (right). Color scale denotes position along x-axis.
+      Visualizations of 64 Mpc3 GADGET-2 subvolumes (left column), along with samples generated with a standard deep convolutional generative adversarial network (DCGAN, middle) and Wasserstein GAN with gradient penalty (WGAN-GP, right). Color scale denotes position along x-axis.
     </figcaption>
   </figure>
   </p>
@@ -33,7 +33,7 @@ title: Research
   </p>
   <p align="center">
   <figure>
-  <img src='/img/m2_lores.jpg' alt="Messier 2"/>
+  <img align="center" width="600" src='/img/m2_lores.jpg' alt="Messier 2"/>
     <figcaption>
       Messier 2, a globular cluster 11.5 kpc away containing over 150,000 stars.
     </figcaption>
