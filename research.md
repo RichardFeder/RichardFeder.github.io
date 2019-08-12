@@ -34,12 +34,14 @@ title: Research
   <p align="center">
   <figure>
   <img align="center" width="600" src='/img/m2_lores.jpg' alt="Messier 2"/>
+  </figure>
     <figcaption>
       Messier 2, a globular cluster 11.5 kpc away containing over 150,000 stars.
     </figcaption>
-  </figure>
   </p>
   </div>
+  
+  
   <div class="text-left">
   <p>
     Probabilistic cataloging (PCAT) has been proposed as a viable framework to address these problems. PCAT is a Bayesian, hierarchical, and transdimensional sampler designed to explore the 
@@ -51,17 +53,15 @@ title: Research
   <h3>Multiband Probabilistic Cataloging</h3>
   PCAT has been shown to outperform traditional cataloging methods on single-band optical data in crowded fields (see <a href="https://arxiv.org/abs/1703.01303">Portillo et al. 2017</a>). For my senior thesis, I worked on extending PCAT to the case of multiband observations. By jointly fitting data from multiple bands, point source detection can directly be enhanced through higher effective signal-to-noise. In addition, one can begin to use additional information in the form of color priors to inform PCAT's hierarchical model. We find that, while our fit is sensitive to the astrometric calibration of the observed data across bands, our two-band fits on r+i go 0.4 mag deeper than the corresponding single-band fit of the same cutout from Messier 2, with lower false discovery rates down to r~20.5. When compared to DAOPHOT, a commonly used software for crowded-field photometry, our multiband catalog goes nearly 1.5 mag deeper <i>using the same data</i>! <a href="https://arxiv.org/abs/1907.04929">Check out our paper on the arXiv</a> (August 2019)
   </p>
-  
+</div>
+<div class="text-center">
   <p align="center">
   <figure>
-  <img align="center" width="600" src='/img/ht606_magbins.png' alt="Completeness"/>
-  <img align="center" width="600" src='/img/sdss_r_magbins.png' alt="False Discovery Rate"/>
-
-    <figcaption>
-      Messier 2, a globular cluster 11.5 kpc away containing over 150,000 stars.
-    </figcaption>
+  <img width="400" src='/img/ht606_magbins.png' alt="Completeness"/>
+  <img width="400" src='/img/sdss_r_magbins.png' alt="False Discovery Rate"/>
   </figure>
   </p>
+</div>
   
   <p>
   <h3>Application to the Chandra Deep Field - South Survey</h3>
