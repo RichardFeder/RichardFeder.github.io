@@ -10,7 +10,7 @@ title: Research
 <div class="text-center">
   <p align="center">
   <figure>
-  <img width=500 src='/img/test.jpg' alt="Subvols"/>
+  <img width="500" src='/img/test.jpg' alt="Subvols"/>
     <figcaption>
       Visualizations of 64 Mpc3 GADGET-2 subvolumes (left column), along with samples generated with a standard deep convolutional generative adversarial network (DCGAN) (middle) and Wasserstein GAN with gradient penalty (WGAN-GP) (right). Color scale denotes position along x-axis.
     </figcaption>
