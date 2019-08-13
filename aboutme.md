@@ -14,10 +14,11 @@ I am currently a first year graduate student in physics at Caltech. Before this 
 <div class="text-center">
 <p align="center">
   <figure>
-<!--   <img src="img/m2_lores.jpg" width="400" alt="Playing at the Caltech Jazz Festival" /> -->
-  <img src='/img/caltech_jazz.jpg' width="400" alt="Playing at the Caltech Jazz Festival" />
-<!--     img src="{{ 'img/404-southpark.jpg' | relative_url }}" -->
-    <figcaption>
+  <img src="/img/band_photo.JPG" width="300" alt="Harvard Jazz Band" />
+  <img src='/img/caltech_jazz.jpg' width="300" alt="Playing at the Caltech Jazz Festival" />
+  <img src="/img/angelique_kidjo_concert.JPG" width="300" alt="Harvard Jazz Band" />
+
+   <figcaption>
       Caltech Jazz Festival, 2019.
     </figcaption>
   </figure>
