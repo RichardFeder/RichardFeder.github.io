@@ -15,8 +15,9 @@ I am currently a first year graduate student in physics at Caltech. Before this 
 <p align="center">
   <figure>
   <img src="/img/band_photo.JPG" width="290" alt="Harvard Jazz Band" />
-  <img src='/img/caltech_jazz.jpg' width="260" alt="Playing at the Caltech Jazz Festival" />
   <img src="/img/angelique_kidjo_concert.JPG" width="290" alt="Harvard Jazz Band" />
+   <img src='/img/caltech_jazz.jpg' width="256" alt="Playing at the Caltech Jazz Festival" />
+
 
    <figcaption>
       Caltech Jazz Festival, 2019.
