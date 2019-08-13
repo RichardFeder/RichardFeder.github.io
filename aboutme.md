@@ -20,7 +20,7 @@ I am currently a first year graduate student in physics at Caltech. Before this 
 
 
    <figcaption>
-      Left/middle: Harvard Big Band concert with Angelique Kidjo. Right: Caltech Jazz Festival, 2019.
+      Left/middle: Harvard Big Band concert with Angelique Kidjo, 2018. Right: Caltech Jazz Festival, 2019.
     </figcaption>
   </figure>
 </p>
