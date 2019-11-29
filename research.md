@@ -6,6 +6,11 @@ title: Research
   <h2 class="post-title">Data driven cosmological emulation using deep generative modeling</h2>
   In collaboration with <a href="https://science.jpl.nasa.gov/people/PBerger/">Philippe Berger</a> and <a href="https://www.cita.utoronto.ca/~gstein/">George Stein</a>
   <br>
+  <p>
+    Many inference problems in cosmology incorporate information from simulations when making comparisons to observational data. Comparing data to simulations (e.g., N-body, hydrodynamical, etc.) can be challenging when the data are high-dimensional and when generating the simulations is computationally expensive. Some summary statistics can be analytically derived (the power spectrum being one example), but for higher order statistics and covariances these analytical prescriptions often have limitations.
+    <br>
+    I am interested in the ways deep generative modeling can be used to bridge the gap between expensive simulations and robust cosmological inference. Deep generative modeling is a subset of machine learning that seeks to model full probability distributions rather than making classifications conditional on the input data. Unlike supervised machine learning, which typically trains a neural network or some other model through labeled data (X,Y), deep generative modeling is unsupervised in the sense that the goal of the model is to learn a representation of the data X and generate independent samples from that representation. For example, this is often used to generate fake faces (check out <a href="https://thispersondoesnotexist.com/">This Person Does Not Exist</a> for a recent example). In that example, the model does not explicitly memorize the faces it trains on, but instead learns a representation of what faces look like, after which it can generate images of faces that lie on the same manifold. 
+  </p>
 </div>
 <div class="text-center">
   <p align="center">
