@@ -11,9 +11,10 @@ I am currently a second year graduate student in physics at Caltech. Before this
 <div class="text-center">
 <p align="center">
   <figure>
-  <img src="/img/wallops_postvibe.jpeg" width="500" alt="Wallops post vibe" />
+  <img src="/img/richard_wallops.jpeg" width="400" alt="Wallops pre vibe" />
+  <img src="/img/wallops_postvibe.jpeg" width="400" alt="Wallops post vibe" />
    <figcaption>
-      Part of the CIBER-2 team after successful vibration tests. Next stop, New Mexico!
+      Pictures with CIBER-2 before (left) and after (right) a successful vibration test.  Next stop, New Mexico!
     </figcaption>
   </figure>
 </p>
