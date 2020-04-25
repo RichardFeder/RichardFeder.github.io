@@ -19,7 +19,7 @@ title: Research
 <div class="text-center">
   <p align="center">
   <figure>
-  <img width="800" align="center" src='/img/website_gans_gadget.jpg' alt="Subvols"/>
+  <img width="800" align="center" src='real_gen_res.png' alt="Subvols"/>
     <br>
     <figcaption>
       Visualizations of 64 Mpc3 GADGET-2 subvolumes (top row), along with samples generated with a standard deep convolutional generative adversarial network (DCGAN, bottom row). Color scale denotes position along x-axis.
