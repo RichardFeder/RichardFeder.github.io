@@ -26,7 +26,7 @@ title: Research
   <img align="center" width="600" src='/img/multiz_alpha.gif' alt="Subvol evolution"/>
   </figure>
     <figcaption>
-      Visualizations of 64 Mpc3 GADGET-2 subvolumes (top row), along with samples generated with a standard deep convolutional generative adversarial network (DCGAN, bottom row). Color scale denotes position along x-axis.
+      Visualization of cGAN generated samples, evolved from z=3 to z=0. Voxels with higher density are more red and less transparent.
     </figcaption>
   </p>
   </div>
