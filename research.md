@@ -20,7 +20,8 @@ title: Research
   <div class="text-center">
   <p align="center">
   <figure>
-  <img align="center" width="600" src='/img/m2_lores.jpg' alt="Messier 2"/>
+  <img align="center" width="800" src='img/real_gen_res.jpg' alt="Subvols"/>
+<!--   <img align="center" width="600" src='/img/m2_lores.jpg' alt="Messier 2"/> -->
   </figure>
     <figcaption>
       Messier 2, a globular cluster 11.5 kpc away containing over 150,000 stars.
@@ -32,7 +33,7 @@ title: Research
   <p align="center">
   <figure>
   <img align="center" width="800" src='img/real_gen_res.jpg' alt="Subvols"/>
-    </figure>
+  </figure>
     <figcaption>
       Visualizations of 64 Mpc3 GADGET-2 subvolumes (top row), along with samples generated with a standard deep convolutional generative adversarial network (DCGAN, bottom row). Color scale denotes position along x-axis.
     </figcaption>
