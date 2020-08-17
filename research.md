@@ -20,7 +20,7 @@ title: Research
   <div class="text-center">
   <p align="center">
   <figure>
-  <img align="center" width="800" src='img/real_gen_res.jpg' alt="Subvols"/>
+  <img align="center" width="600" src='img/real_gen_res.jpg' alt="Subvols"/>
 <!--   <img align="center" width="600" src='/img/m2_lores.jpg' alt="Messier 2"/> -->
   </figure>
     <figcaption>
