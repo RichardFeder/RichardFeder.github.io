@@ -26,7 +26,7 @@ title: Research
   <img align="center" width="600" src='/img/multiz_alpha.gif' alt="Subvol evolution"/>
   </figure>
     <figcaption>
-      Visualization of cGAN generated samples, evolved from z=3 to z=0. Voxels with higher density are more red and less transparent.
+      Visualization of cGAN generated samples, interpolated from redshift z=3 to z=0. Voxels with higher density are more red and less transparent.
     </figcaption>
   </p>
   </div>
