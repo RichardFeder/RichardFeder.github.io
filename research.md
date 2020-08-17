@@ -3,8 +3,8 @@ layout: default
 title: Research
 ---
 <div class="text-left">
-  <h2 class="post-title">Data driven cosmological emulation using deep generative modeling</h2>
-  In collaboration with <a href="https://science.jpl.nasa.gov/people/PBerger/">Philippe Berger</a> and <a href="https://www.cita.utoronto.ca/~gstein/">George Stein</a>
+  <h2 class="post-title">Non-linear 3D Cosmic Web Simulation with Heavy-Tailed Generative Adversarial Networks</h2>
+  In collaboration with <a href="https://science.jpl.nasa.gov/people/PBerger/">Philippe Berger</a> and <a href="https://www.cita.utoronto.ca/~gstein/">George Stein</a>, arXiv link <a href="https://arxiv.org/abs/2005.03050">here</a>.
   <br>
   <p>
     Many inference problems in cosmology incorporate information from simulations when making comparisons to observational data. Comparing data to simulations (e.g., N-body, hydrodynamical, etc.) can be challenging when the data are high-dimensional and when generating the simulations is computationally expensive. Some summary statistics can be analytically derived (the power spectrum being one example), but for higher order statistics and covariances these analytical prescriptions often have limitations.
@@ -16,15 +16,15 @@ title: Research
     One project I am working on involves conditional generative adversarial networks (CGANs), to model the matter density distribution obtained with N-body simulations. The clearest advantages to using CGANs for such a task are that 1) generating new N-body realizations from a trained neural network is orders of magnitude faster than from direct simulation and 2) the network used to generate samples is significantly more memory efficient. And while there is a great deal of work to be done in validating the fidelity of these models for physical inference, generating samples directly in the data space opens up the prospect of simultaneous access to several summary statistics, since they can be calculated directly from the generated samples. Deep learning methods often do well at modeling non-linear data, so summary statistics such as the power spectrum and bispectrum can be predicted well into the small-scale, non-linear regime where analytic methods fail but where there is sometimes more constraining power.  
   </p>
 </div>
+
 <div class="text-center">
   <p align="center">
   <figure>
-  <img width="800" align="center" src="img/real_gen_res.jpg" alt="Subvols"/>
-    <br>
+  <img align="center" width="800" src="img/real_gen_res.jpg" alt="Subvols"/>
+    </figure>
     <figcaption>
       Visualizations of 64 Mpc3 GADGET-2 subvolumes (top row), along with samples generated with a standard deep convolutional generative adversarial network (DCGAN, bottom row). Color scale denotes position along x-axis.
     </figcaption>
-  </figure>
   </p>
  </div>
  <div class="text-left">
