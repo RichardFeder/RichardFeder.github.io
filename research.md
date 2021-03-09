@@ -87,10 +87,6 @@ title: Research
     poorly understood cosmic X-ray background (CXB). 
   </p>
   
-  
-  <h2 class="post-title">Target selection for the DESI Bright Galaxy Survey (BGS)</h2>
-  Supervised by <a href="https://scholar.harvard.edu/deisenstein">Daniel Eisenstein</a>
-  <br>
   <h2 class="post-title">Early Type Galaxies in the <i>Chandra</i> COSMOS Survey</h2>
   Supervised by <a href="https://francesca.civano.it/">Francesca Civano</a>
   <br>
