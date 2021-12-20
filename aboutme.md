@@ -13,7 +13,7 @@ I am a member of the CIBER collaboration, working on both data analysis of CIBER
 <p align="center">
   <figure>
   <img src="/img/richard_wallops.jpeg" width="450" alt="Wallops pre vibe" />
-  <img src="/img/wallops_postvibe.jpeg" width="400" alt="Wallops post vibe" />
+  <img src="/img/wsmr_recovery_1.jpeg" width="400" alt="Wallops post vibe" />
    <figcaption>
       Pictures with CIBER-2 before (left) and after (right) a successful vibration test.  Next stop, New Mexico!
     </figcaption>
