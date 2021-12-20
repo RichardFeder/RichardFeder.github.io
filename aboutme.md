@@ -5,8 +5,9 @@ title: About me
 <div class="text-left">
 <h2 class="post-title">About Me</h2>
 <p>
-I am currently a second year graduate student in physics at Caltech. Before this, I was an undergraduate student at Harvard University, where I completed my BA in Physics and Astrophysics with Honors. While at Harvard, I worked with <a href="https://faun.rc.fas.harvard.edu/nebel/dfink//">Douglas Finkbeiner</a> on probabilistic cataloging (see <a href="https://richardfeder.github.io/research">Research</a> for more information). I also worked with <a href="https://scholar.harvard.edu/deisenstein/home">Daniel Eisenstein</a> on target selection for DESI's Bright Galaxy Survey (BGS) (see more <a href="https://www.desi.lbl.gov/the-desi-survey/">here</a>). My research experiences in college helped foster my interest in how statistics and computational methods can enhance the study of astronomy and cosmology. I'm originally from Great Neck, New York.  
-</p>
+I am currently a fourth year PhD candidate in physics at Caltech, where I am supervised by Jamie Bock. I work on a number of topics in observational cosmology, with a broad interest in developing and applying computational techniques rooted in astrostatistics that enable robust inference for image datasets. Some of my research utilizes techniques in deep generative modeling to enhance studies of large-scale structure formation. 
+  
+I am a member of the CIBER collaboration, working on both data analysis of CIBER-1 data and hardware/laboratory work for the CIBER-2 experiment. As an experimentalist, I built hardware for CIBER-2, ran laboratory measurements to characterize instrument performance, and helped integrate the experiment with the full sounding rocket payload. This work was done in collaboration with NASA's sounding rocket program and involved working at both NASA Wallops Flight Facility in Virginia and White Sands Missile Range in Las Cruces, New Mexico, where I participated in a successful first flight and experiment recovery (<a href ="https://www.nasa.gov/feature/goddard/2021/rocket-team-to-discern-if-our-star-count-should-go-way-up">Press release for CIBER-2 first flight, June 2021</a>).
   
 <div class="text-center">
 <p align="center">
@@ -19,6 +20,9 @@ I am currently a second year graduate student in physics at Caltech. Before this
   </figure>
 </p>
 </div>  
+  
+Previously I was an undergraduate student at Harvard University, where I completed my Bachelors in Physics and Astrophysics with Honors. While at Harvard, I worked with <a href="https://faun.rc.fas.harvard.edu/nebel/dfink//">Douglas Finkbeiner</a> and <a href="https://scholar.harvard.edu/deisenstein/home">Daniel Eisenstein</a>. My research experiences in college helped foster my interest in how statistics and computational methods can enhance the study of astronomy and cosmology. I'm originally from Great Neck, New York.  
+</p>
   
  
 <p>
