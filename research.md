@@ -4,13 +4,12 @@ title: Research
 ---
 
 
-
+<!-- <div class="text-left"> -->
 <details>
 <summary> 
-<div class="text-left">
-  <h2 class="post-title">Non-linear 3D Cosmic Web Simulation with Heavy-Tailed Generative Adversarial Networks</h2>
+  <h2 class="post-title">Non-linear 3D Cosmic Web Simulation with Heavy-Tailed Generative Adversarial Networks</h2></summary>
+  
   In collaboration with <a href="https://science.jpl.nasa.gov/people/PBerger/">Philippe Berger</a> and <a href="https://www.cita.utoronto.ca/~gstein/">George Stein</a>, arXiv link <a href="https://arxiv.org/abs/2005.03050">here</a>.
-  </summary>
   <br>
   <p>
     Many inference problems in cosmology incorporate information from simulations when making comparisons to observational data. Comparing data to simulations (e.g., N-body, hydrodynamical, etc.) can be challenging when the data are high-dimensional and when generating the simulations is computationally expensive. Some summary statistics can be analytically derived (the power spectrum being one example), but for higher order statistics and covariances these analytical prescriptions often have limitations.
@@ -23,7 +22,7 @@ title: Research
   </p>
 
 
-</div>
+<!-- </div> -->
 
   <div class="text-center">
   <p align="center">
@@ -37,15 +36,12 @@ title: Research
   </p>
   </div>
  
-   </details>
+</details>
    
+<!-- <div class="text-left"> -->
 <details>
-<summary> 
-   
- <div class="text-left">
-  
+<summary>   
   <h2 class="post-title">Robust forward modeling of astronomical images with probabilistic cataloging</h2>
-   
    </summary>
   <p>
    Cataloging is a fundamental operation in astronomy. In the case where objects (such as stars, galaxies, etc.) are well separated and and observed with high signal to noise, cataloging is a 
@@ -64,7 +60,7 @@ title: Research
       Messier 2, a globular cluster 11.5 kpc away containing over 150,000 stars.
     </figcaption>
   </p>
-  </div>
+<!--   </div> -->
   
   
   <div class="text-left">
