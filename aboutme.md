@@ -12,10 +12,11 @@ I am a member of the CIBER collaboration, working on both data analysis of CIBER
 <div class="text-center">
 <p align="center">
   <figure>
-  <img src="/img/richard_wallops.jpeg" width="450" alt="Wallops pre vibe" />
-  <img src="/img/wsmr_recovery_1.jpeg" width="400" alt="Wallops post vibe" />
+  <img src="/img/richard_wallops.jpeg" width="400" alt="Wallops pre vibe" />
+  <img src="/img/wsmr_hotcount.jpeg" width="400" alt="WSMR hot count" />    
+  <img src="/img/wsmr_recovery_1.jpeg" width="800" alt="WSMR experiment recovery" />
    <figcaption>
-      Pictures with CIBER-2 before (left) and after (right) a successful vibration test.  Next stop, New Mexico!
+      Top Left: CIBER-2 during integration at Wallops Flight Facility. Top Right: Hot count (3 hours before T-0) at White Sands Missile Range (WSMR), New Mexico. Bottom: Experiment recovery at WSMR.
     </figcaption>
   </figure>
 </p>
@@ -32,13 +33,13 @@ Previously I was an undergraduate student at Harvard University, where I complet
 <div class="text-center">
 <p align="center">
   <figure>
-  <img src="/img/band_photo.JPG" width="290" alt="Harvard Jazz Band" />
-  <img src="/img/angelique_kidjo_concert.JPG" width="290" alt="Harvard Jazz Band" />
-   <img src='/img/caltech_jazz.jpg' width="258" alt="Playing at the Caltech Jazz Festival" />
+<!--   <img src="/img/band_photo.JPG" width="290" alt="Harvard Jazz Band" /> -->
+  <img src="/img/angelique_kidjo_concert.JPG" width="400" alt="Harvard Jazz Band" />
+   <img src='/img/caltech_jazz.jpg' width="350" alt="Playing at the Caltech Jazz Festival" />
 
 
    <figcaption>
-      Left/middle: Harvard Big Band concert with Angelique Kidjo, 2018. Right: Caltech Jazz Festival, 2019.
+      Left: Concert with Angelique Kidjo, 2018. Right: Caltech Jazz Festival, 2019.
     </figcaption>
   </figure>
 </p>
