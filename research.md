@@ -41,7 +41,7 @@ title: Research
 <!-- <div class="text-left"> -->
 <details>
 <summary>   
-  <h2 class="post-title">Robust forward modeling of astronomical images with probabilistic cataloging</h2>
+  <h2 class="post-title">Forward modeling of astronomical images with probabilistic cataloging</h2>
    </summary>
   <p>
    Cataloging is a fundamental operation in astronomy. In the case where objects (such as stars, galaxies, etc.) are well separated and and observed with high signal to noise, cataloging is a 
@@ -104,7 +104,7 @@ PCAT has been shown to outperform traditional cataloging methods on single-band 
  </details>
 </div>
 
-<div class="text-left">  
+<!-- <div class="text-left">   -->
   <details>
   <summary>
   <h2 class="post-title">Early Type Galaxies in the <i>Chandra</i> COSMOS Survey</h2>
@@ -113,4 +113,4 @@ PCAT has been shown to outperform traditional cataloging methods on single-band 
   <br>
   Paper can be found <a href="https://iopscience.iop.org/article/10.1088/0004-637X/790/1/16">here</a>.
   </details>
-</div>
+<!-- </div> -->
