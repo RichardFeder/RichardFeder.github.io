@@ -22,7 +22,7 @@ avatar-height: 40
 navbar-links:
   About Me: "aboutme"
   Research: "research"
-  Curriculum Vitae: Richard_Feder_CV_112221.pdf
+  Curriculum Vitae: richard_feder_cv_122021.pdf
 
 
 # If you want to have an image logo in the top-left corner instead of the title text,
@@ -62,7 +62,6 @@ social-network-links:
   github: RichardFeder
   twitter: RichardFeder3
   linkedin: Richard Feder
-#  youtube: user/deanat78
 
 
 # Select which share links to show in posts
