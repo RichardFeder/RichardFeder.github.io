@@ -3,6 +3,19 @@ layout: default
 title: Research
 ---
 
+<details>
+  <summary> 
+  <h2 class="post-title">Dissecting the near-Infrared Universe with the Cosmic Infrared Background ExpeRiment (CIBER)</h2></summary>
+  </summary>  
+  [To be filled in soon]
+  
+  
+    <h3>CIBER-1</h3>
+    
+    
+    <h3>CIBER-2</h3>
+  
+</details>
 
 <!-- <div class="text-left"> -->
 <details>
