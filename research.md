@@ -118,12 +118,12 @@ PCAT has been shown to outperform traditional cataloging methods on single-band 
 </div>
 
 <!-- <div class="text-left">   -->
-  <details>
+<!--   <details>
   <summary>
   <h2 class="post-title">Early Type Galaxies in the <i>Chandra</i> COSMOS Survey</h2>
     </summary>
   Supervised by <a href="https://francesca.civano.it/">Francesca Civano</a>
   <br>
   Paper can be found <a href="https://iopscience.iop.org/article/10.1088/0004-637X/790/1/16">here</a>.
-  </details>
+  </details> -->
 <!-- </div> -->
