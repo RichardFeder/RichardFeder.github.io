@@ -5,11 +5,15 @@ title: Research
 
 <input type="button" onClick="document.getElementById('gan').scrollIntoView();" />
 
+<input type="button" onClick="document.getElementById('gan').scrollIntoView();" />
 
-<details>
-  <summary> 
-  <h2 class="post-title">Dissecting the near-Infrared Universe with the Cosmic Infrared Background ExpeRiment (CIBER)</h2></summary>
-  </summary>  
+<input type="button" onClick="document.getElementById('gan').scrollIntoView();" />
+
+
+<div class="text-left" id="ciber">
+<!-- <details> -->
+  <h2 class="post-title" color=>Dissecting the near-Infrared Universe with the Cosmic Infrared Background ExpeRiment (CIBER)</h2>
+<!--   </summary> -->
   [To be filled in soon]
   
   
@@ -17,8 +21,8 @@ title: Research
     
     
     <h3>CIBER-2</h3>
-  
-</details>
+</div>
+<!-- </details> -->
 
 <div class="text-left" id="gan">
 <!-- <details> -->
@@ -55,11 +59,11 @@ title: Research
  
 <!-- </details> -->
    
-<div class="text-left">
-<details>
-<summary>   
+<div class="text-left" id="pcat">
+<!-- <details> -->
+<!-- <summary>    -->
   <h2 class="post-title">Forward modeling of astronomical images with probabilistic cataloging</h2>
-   </summary>
+<!--    </summary> -->
   <p>
    Cataloging is a fundamental operation in astronomy. In the case where objects (such as stars, galaxies, etc.) are well separated and and observed with high signal to noise, cataloging is a 
     fairly straightforward task. However, things get complicated in crowded fields. Below is an observation of the globular cluster <a href="https://en.wikipedia.org/wiki/Messier_2">Messier 2</a>. When objects blend together, 
@@ -118,7 +122,7 @@ PCAT has been shown to outperform traditional cataloging methods on single-band 
     poorly understood cosmic X-ray background (CXB). 
 
   </p>
- </details>
+<!--  </details> -->
 </div>
 
 <!-- <div class="text-left">   -->
