@@ -3,6 +3,9 @@ layout: default
 title: Research
 ---
 
+<input type="button" onClick="document.getElementById('gan').scrollIntoView();" />
+
+
 <details>
   <summary> 
   <h2 class="post-title">Dissecting the near-Infrared Universe with the Cosmic Infrared Background ExpeRiment (CIBER)</h2></summary>
@@ -17,10 +20,11 @@ title: Research
   
 </details>
 
-<!-- <div class="text-left"> -->
-<details>
-<summary> 
-  <h2 class="post-title">Non-linear 3D Cosmic Web Simulation with Heavy-Tailed Generative Adversarial Networks</h2></summary>
+<div class="text-left" id="gan">
+<!-- <details> -->
+<!-- <summary>  -->
+  <h2 class="post-title">Non-linear 3D Cosmic Web Simulation with Heavy-Tailed Generative Adversarial Networks</h2>
+<!--   </summary> -->
   
   In collaboration with <a href="https://science.jpl.nasa.gov/people/PBerger/">Philippe Berger</a> and <a href="https://www.cita.utoronto.ca/~gstein/">George Stein</a>, arXiv link <a href="https://arxiv.org/abs/2005.03050">here</a>.
   <br>
@@ -49,9 +53,9 @@ title: Research
   </p>
   </div>
  
-</details>
+<!-- </details> -->
    
-<!-- <div class="text-left"> -->
+<div class="text-left">
 <details>
 <summary>   
   <h2 class="post-title">Forward modeling of astronomical images with probabilistic cataloging</h2>
