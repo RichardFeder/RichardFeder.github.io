@@ -24,7 +24,7 @@ title: Projects
 <div class="text-center">
 <p align="center">
   <figure>
-  <img src="/img/sz_resid_100222.jpeg" width="600" alt="pcatde-szeff" />
+  <img src="/img/sz_resid_100222.jpg" width="600" alt="pcatde-szeff" />
    <figcaption>
     10' × 10' cirrus-free mock SPIRE observations toward galaxy cluster RX J1347.5-1145. The columns show (going from left to right) the input SZ effect signal, observed maps, median CIB model, and difference between observed maps and CIB model. By fitting both SZ and CIB simultaneously we can account for the presence of sub-mm point sources without overfitting the underlying SZ signal. The maps in the rightmost column are shown for visualization purposes only.
     </figcaption>
@@ -37,7 +37,7 @@ title: Projects
 <!-- <summary>    -->
   <h2 class="post-title">Measurement of the Relativistic Sunyaev–Zeldovich Correction in RX J1347.5-1145</h2>
 
-  <a>Co-led with Victoria Butler, Accepted to AJ, <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ac6c04">link here</a>.
+  Co-led with Victoria Butler, Accepted to AJ, <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ac6c04">link here</a>.
   <br>
   <p>
     Abstract: We present a measurement of the relativistic corrections to the thermal Sunyaev–Zel'dovich (SZ) effect spectrum, the rSZ effect, toward the massive galaxy cluster RX J1347.5-1145 by combining submillimeter images from Herschel-SPIRE with millimeter wavelength Bolocam maps. Our analysis simultaneously models the SZ effect signal, the population of cosmic infrared background galaxies, and the galactic cirrus dust emission in a manner that fully accounts for their spatial and frequency-dependent correlations. Gravitational lensing of background galaxies by RX J1347.5-1145 is included in our methodology based on a mass model derived from the Hubble Space Telescope observations. Utilizing a set of realistic mock observations, we employ a forward modeling approach that accounts for the non-Gaussian covariances between the observed astrophysical components to determine the posterior distribution of SZ effect brightness values consistent with the observed data. We determine a maximum a posteriori (MAP) value of the average Comptonization parameter of the intracluster medium (ICM) within R2500 to be 〈y〉2500 = 1.56 × 10−4, with corresponding 68% credible interval [1.42, 1.63] × 10−4, and a MAP ICM electron temperature of 〈Tsz〉2500 = 22.4 keV with 68% credible interval spanning [10.4, 33.0] keV. This is in good agreement with the pressure-weighted temperature obtained from Chandra X-ray observations, 〈Tx,pw〉2500 = 17.4 ± 2.3 keV. We aim to apply this methodology to comparable existing data for a sample of 39 galaxy clusters, with an estimated uncertainty on the ensemble mean 〈Tsz〉2500 at the ≃ 1 keV level, sufficiently precise to probe ICM physics and to inform X-ray temperature calibration.
@@ -47,7 +47,7 @@ title: Projects
 <div class="text-center">
 <p align="center">
   <figure>
-  <img src="/img/szspec.jpeg" width="400" alt="SZ spectrum" />
+  <img src="/img/szspec.jpeg" width="300" alt="SZ spectrum" />
   <img src="/img/szpost.jpeg" width="400" alt="SZ T post" />    
    <figcaption>
       Left: SZ spectrum measurements. Right: Constraints on ICM temperature given relativistic corrections to the tSZ spectrum.
@@ -55,30 +55,6 @@ title: Projects
   </figure>
 </p>
 </div>  
-
-
-<div class="text-left" id="ciber">
-<!-- <details> -->
-<h2 class="post-title" color=>Dissecting the near-Infrared Universe with the Cosmic Infrared Background ExpeRiment (CIBER)</h2>
-<p>
-As a member of the CIBER collaboration, I have worked on both data analysis of CIBER-1 data and instrumentation work for the CIBER-2 experiment. During the first half of my PhD, I built hardware for CIBER-2, ran laboratory measurements to characterize detector performance, and worked through integration of the experiment with the full sounding rocket payload. This work was done in collaboration with NASA's sounding rocket program and involved working at NASA Wallops Flight Facility in Virginia and White Sands Missile Range in Las Cruces, New Mexico, where I participated in a successful first flight and experiment recovery (<a href ="https://www.nasa.gov/feature/goddard/2021/rocket-team-to-discern-if-our-star-count-should-go-way-up">Press release for CIBER-2 first flight, June 2021</a>).
-
-<div class="text-center">
-<p align="center">
-  <figure>
-  <img src="/img/richard_wallops.jpeg" width="400" alt="Wallops pre vibe" />
-  <img src="/img/wsmr_hotcount.jpeg" width="400" alt="WSMR hot count" />    
-  <img src="/img/wsmr_recovery_1.jpeg" width="800" alt="WSMR experiment recovery" />
-   <figcaption>
-      Top Left: CIBER-2 during integration at Wallops Flight Facility. Top Right: Hot count at White Sands Missile Range (WSMR), New Mexico. Bottom: Experiment recovery at WSMR.
-    </figcaption>
-  </figure>
-</p>
-</div>  
-
-
-</div>
-<!-- </details> -->
 
 <div class="text-left" id="gan">
   <h2 class="post-title">Non-linear 3D Cosmic Web Simulation with Heavy-Tailed Generative Adversarial Networks</h2>  
@@ -109,7 +85,7 @@ As a member of the CIBER collaboration, I have worked on both data analysis of C
 
 <div class="text-left" id="multiband_pcat">
 <h2>Multi-band Probabilistic Cataloging: A Joint Fitting Approach to Point-source Detection and Deblending</h2>
-<b> Supervised by <a href="https://faun.rc.fas.harvard.edu/nebel/dfink//">Douglas Finkbeiner</a>, in collaboration with <a href="http://portillo.ca/">Stephen Portillo</a> and <a href="tansudaylan.com">Tansu Daylan</a> </b> <br>
+Supervised by <a href="https://faun.rc.fas.harvard.edu/nebel/dfink//">Douglas Finkbeiner</a>, in collaboration with <a href="http://portillo.ca/">Stephen Portillo</a> and <a href="tansudaylan.com">Tansu Daylan</a> <br>
 <p>
 Abstract: Probabilistic cataloging (PCAT) outperforms traditional cataloging methods on single-band optical data in crowded fields. We extend our work to multiple bands, achieving greater sensitivity (∼0.4 mag) and greater speed (500×) compared to previous single-band results. We demonstrate the effectiveness of multiband PCAT on mock data, in terms of both recovering accurate posteriors in the catalog space and directly deblending sources. When applied to Sloan Digital Sky Survey (SDSS) observations of M2, taking Hubble Space Telescope data as truth, our joint fit on r- and i-band data goes ∼0.4 mag deeper than single-band probabilistic cataloging and has a false discovery rate less than 20% for F606W ≤ 20. Compared to DAOPHOT, the two-band SDSS catalog fit goes nearly 1.5 mag deeper using the same data and maintains a lower false discovery rate down to F606W ∼ 20.5. Given recent improvements in computational speed, multiband PCAT shows promise in application to large-scale surveys and is a plausible framework for joint analysis of multi-instrument observational data. https://github.com/RichardFeder/multiband_pcat.
 </p>

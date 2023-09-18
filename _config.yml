@@ -10,7 +10,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Richard Feder
+title: Richard M. Feder
 
 avatar: /img/avatar.jpg
 avatar-size: 100
@@ -21,7 +21,8 @@ avatar-height: 80
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: "research"
+  CIBER/SPHEREx: "ciber_spherex"
+  Publications: "research"
   Curriculum Vitae: richard_feder_cv_122021.pdf
 
 
