@@ -1,3 +1,14 @@
+---
+layout: default
+title: Projects
+---
+
+<!-- <input type="button" onClick="document.getElementById('pcat-de').scrollIntoView();" />
+
+<input type="button" onClick="document.getElementById('gan').scrollIntoView();" />
+
+<input type="button" onClick="document.getElementById('gan').scrollIntoView();" /> -->
+
 <div class="text-left" id="ciber">
 <!-- <details> -->
 <!-- <summary> -->

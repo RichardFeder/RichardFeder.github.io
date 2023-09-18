@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publications
+title: Papers
 ---
 
 <!-- <input type="button" onClick="document.getElementById('pcat-de').scrollIntoView();" />
@@ -24,7 +24,7 @@ title: Publications
 <div class="text-center">
 <p align="center">
   <figure>
-  <img src="/img/sz_resid_100222.jpg" width="600" alt="pcatde-szeff" />
+  <img src="/img/sz_resid_100222.jpg" width="800" alt="pcatde-szeff" />
    <figcaption>
     10' × 10' cirrus-free mock SPIRE observations toward galaxy cluster RX J1347.5-1145. The columns show (going from left to right) the input SZ effect signal, observed maps, median CIB model, and difference between observed maps and CIB model. By fitting both SZ and CIB simultaneously we can account for the presence of sub-mm point sources without overfitting the underlying SZ signal. The maps in the rightmost column are shown for visualization purposes only.
     </figcaption>
@@ -73,7 +73,7 @@ title: Publications
   <p align="center">
   <figure>
 <!--   <img align="center" width="600" src='img/real_gen_res.jpg' alt="Subvols"/> -->
-  <img align="center" width="600" src='/img/multiz_alpha.gif' alt="Subvol evolution"/>
+  <img align="center" width="400" src='/img/multiz_alpha.gif' alt="Subvol evolution"/>
   </figure>
     <figcaption>
       Visualization of cGAN-generated samples, interpolated from redshift z=3 to z=0. Voxels with higher density are more red and less transparent.
@@ -93,67 +93,19 @@ Abstract: Probabilistic cataloging (PCAT) outperforms traditional cataloging met
   <a href="https://arxiv.org/abs/1907.04929">Check out our paper on the arXiv</a> (August 2019) and the <a href="https://iopscience.iop.org/article/10.3847/1538-3881/ab74cf">published version</a>. And check out <a href="https://aasnova.org/2020/04/24/a-stellar-method-of-catalog-creation/?fbclid=IwAR1m4kUkcipyRn3RGrPtU7uMz-yFy7W6n5A1v0L906mKJpcZwkgiYN3ig8I">this article</a> by AAS Nova about the publication!
 </p>
 <p align="center">
-<figure>
+<figure align="center">
 <img width="400" src='/img/ht606_magbins.png' alt="Completeness"/>
 <img width="400" src='/img/sdss_r_magbins.png' alt="False Discovery Rate"/>
 </figure>
 </p>
 
 </div>
-   
-<!-- <div class="text-left" id="pcat">
-  <h2 class="post-title">Forward modeling of astronomical images with probabilistic cataloging</h2>
-  <p>
-   Cataloging is a fundamental operation in astronomy. In the case where objects (such as stars, galaxies, etc.) are well separated and and observed with high signal to noise, cataloging is a 
-    fairly straightforward task. However, things get complicated in crowded fields. Below is an observation of the globular cluster <a href="https://en.wikipedia.org/wiki/Messier_2">Messier 2</a>. When objects blend together, 
-    determining their properties to percent-level precision becomes a much more daunting task. Next generation telescopes like LSST, HSC, WFIRST will have improved sensitivity to pick up faint sources, but will not have 
-    sufficient angular resolution to distinguish this population of newly observed sources. This means <i>a significant fraction of future observations will suffer from blending!</i>
-  </p>
-  </div> -->
-  
-<!--   <div class="text-center">
-  <p align="center">
-  <figure>
-  <img align="center" width="600" src='/img/m2_lores.jpg' alt="Messier 2"/>
-  </figure>
-    <figcaption>
-      Messier 2, a globular cluster 11.5 kpc away containing over 150,000 stars.
-    </figcaption>
-  </p> -->
-<!--   </div> -->
-  
-  
-  <!-- <div class="text-left"> -->
-<!--   <p>
-    Probabilistic cataloging (PCAT) has been proposed as a viable framework to address these problems. PCAT is a Bayesian, hierarchical, and transdimensional sampler designed to explore the 
-    space of different catalogs consistent with an observed image. Because the number of objects and in an image may not be known <i>a priori</i>, exploring the "catalog space" involves exploring models with different numbers
-    of parameters. This is done by constructing transdimensional proposals that preserve detailed balance -- this is referred to as Reversible Jump Markov Chain Monte 
-    Carlo (RJ-MCMC, see <a href="https://pdfs.semanticscholar.org/c440/ea3bbb7fc8dcaa069ea550011ea65ac33fd4.pdf">Green 1995</a>).
-  </p>
-  <p> -->
-<!--   <h3>Multiband Probabilistic Cataloging</h3>
-   <b> Supervised by <a href="https://faun.rc.fas.harvard.edu/nebel/dfink//">Douglas Finkbeiner</a>, in collaboration with <a href="http://portillo.ca/">Stephen Portillo</a> and <a href="tansudaylan.com">Tansu Daylan</a> </b> <br> -->
-<!--     
-PCAT has been shown to outperform traditional cataloging methods on single-band optical data in crowded fields (see <a href="https://arxiv.org/abs/1703.01303">Portillo et al. 2017</a>). For my senior thesis, I worked on extending PCAT to the case of multiband observations. By jointly fitting data from multiple bands, point source detection can directly be enhanced through higher effective signal-to-noise. In addition, one can begin to use additional information in the form of color priors to inform PCAT's hierarchical model. We find that, while our fit is sensitive to the astrometric calibration of the observed data across bands, our two-band fits on r+i go 0.4 mag deeper than the corresponding single-band fit of the same cutout from Messier 2, with lower false discovery rates down to r~20.5. When compared to DAOPHOT, a commonly used software for crowded-field photometry, our multiband catalog goes nearly 1.5 magnitudes deeper <i>using the same data</i>! <a href="https://arxiv.org/abs/1907.04929">Check out our paper on the arXiv</a> (August 2019) and the <a href="https://iopscience.iop.org/article/10.3847/1538-3881/ab74cf">published version</a>. And check out <a href="https://aasnova.org/2020/04/24/a-stellar-method-of-catalog-creation/?fbclid=IwAR1m4kUkcipyRn3RGrPtU7uMz-yFy7W6n5A1v0L906mKJpcZwkgiYN3ig8I">this article</a> by AAS Nova about the publication. 
-  </p> -->
-<!-- </div> -->
-<!-- <div class="text-center"> -->
-<!--   <p align="center">
-  <figure>
-  <img width="400" src='/img/ht606_magbins.png' alt="Completeness"/>
-  <img width="400" src='/img/sdss_r_magbins.png' alt="False Discovery Rate"/>
-  </figure>
-  </p> -->
-<!-- </div> -->
- 
 
-<!-- <div class="text-left">   -->
-<!--   <details>
-  <summary>
-  <h2 class="post-title">Early Type Galaxies in the <i>Chandra</i> COSMOS Survey</h2>
-    </summary>
-  Supervised by <a href="https://francesca.civano.it/">Francesca Civano</a>
-  <br>
-  Paper can be found <a href="https://iopscience.iop.org/article/10.1088/0004-637X/790/1/16">here</a>.
-  </details> -->
-<!-- </div> -->
+<div class="text-left" id="other">
+<h2>Other selected publications</h2>
+
+</div>
+
+
+
+   
