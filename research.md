@@ -20,7 +20,6 @@ title: Projects
   <p>
     Abstract: Observational data from astronomical imaging surveys contain information about a variety of source populations and environments, and their complexity will increase substantially as telescopes become more sensitive. Even for existing observations, measuring the correlations between pointlike and diffuse emission can be crucial to correctly inferring the properties of any individual component. For this task, information is typically lost, because of conservative data cuts, aggressive filtering, or incomplete treatment of contaminated data. We present the code PCAT-DE, an extension of probabilistic cataloging, designed to simultaneously model pointlike and diffuse signals. This work incorporates both explicit spatial templates and a set of nonparametric Fourier component templates into a forward model of astronomical images, reducing the number of processing steps applied to the observed data. Using synthetic Herschel-SPIRE multiband observations, we demonstrate that point-source and diffuse emission can be reliably separated and measured. We present two applications of this model. For the first, we perform point-source detection/photometry in the presence of galactic cirrus and demonstrate that cosmic infrared background galaxy counts can be recovered in cases of significant contamination. In the second, we show that the spatially extended thermal Sunyaev–Zel'dovich effect signal can be reliably measured even when it is subdominant to the pointlike emission from individual galaxies.
   </p>
-</div>
 
 <div class="text-center">
 <p align="center">
@@ -32,7 +31,6 @@ title: Projects
   </figure>
 </p>
 </div> 
-
 
 <div class="text-left" id="pcat-de">
 <!-- <details> -->
