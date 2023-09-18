@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: Publications
 ---
 
 <!-- <input type="button" onClick="document.getElementById('pcat-de').scrollIntoView();" />
