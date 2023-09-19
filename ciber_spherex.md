@@ -69,11 +69,10 @@ I am also a developer of the Bayesian, transdimensional forward modeling approac
 <div class="text-center">
   <p align="center">
   <figure>
-<!--   <img align="center" width="600" src='img/real_gen_res.jpg' alt="Subvols"/> -->
-  <img align="center" width="600" src='/img/pcatde.gif' alt="PCAT-DE"/>
+  <img align="center" width="800" src='/img/compare_with_without_fcs_1xplanck_092922.png' alt="PCAT-DE"/>
   </figure>
     <figcaption>
-      A collection of thinned samples from PCAT-DE run on Herschel-SPIRE 250 micron data in the Small Magellanic Cloud, highlighting robust separation of point sources and diffuse galactic cirrus.
+      An example highlighting the importance of diffuse cirrus in synthetic Herschel-SPIRE 250um data. Even when diffuse cirrus cannot be seen by eye, it can have a large impact on detection and deblending for fainter sources. We have tested PCAT-DE for robustness using synthetic data with moderate to severe cirrus contamination (see <b>Publications</b> for more information). 
     </figcaption>
   </p>
   </div>
