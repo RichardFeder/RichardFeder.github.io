@@ -33,7 +33,7 @@ CIBER is a sounding rocket experiment designed to characterize the near-infrared
 For my dissertation project I am leading a fluctuation analysis of CIBER-1 fourth flight imaging data. Broad band, near infrared intensity mapping has great potential to shed light on interpretations of the extragalactic background light (EBL), which contains the integrated emission from all sources along each line of sight. Through multi- wavelength measurement of large-angle (several arcminute to degree scale) surface brightness fluctuations, we can interpret the relative amplitudes of astrophysical components that comprise the EBL through spatial and spectral cross-correlations. I am also interested in characterizing the intensity bias of NIR fluctuations correlated against galaxy surveys of large-scale structure.     
 </p>
 
-<div class="text-left" id="ciber">
+<div class="text-left" id="spherex">
 <!-- <details> -->
 <!-- <summary> -->
 <h2 class="post-title">SPHEREx</h2>
@@ -47,7 +47,7 @@ I am also a member of the <a href="https://spherex.caltech.edu/">SPHEREx</a> cos
 <div class="text-center">
 <p align="center">
   <figure>
-  <img src="/img/spherex.jpeg" width="600" alt="spherex" />
+  <img src="/img/spherex.jpeg" width="500" alt="spherex" />
   <img src="/img/sphx_spectrum.jpeg" width="600" alt="spherex spectra" />
    <figcaption>
       Left: Artist rendering of SPHEREx. Credit: NASA/JPL. Right: Two examples of synthetic SPHEREx photometry. Both quiescent galaxies and emission line galaxies contain important redshift information! (Feder et al. 2023, in prep.)
@@ -57,6 +57,33 @@ I am also a member of the <a href="https://spherex.caltech.edu/">SPHEREx</a> cos
 </div>
 
 </div>
+
+<div class="text-left" id="pcat">
+<!-- <details> -->
+<!-- <summary> -->
+<h2 class="post-title">Probabilistic cataloging</h2>
+<p>
+I am also a developer of the Bayesian, transdimensional forward modeling approach "probabilistic cataloging" (PCAT for short). Starting from work applying multi-band probabilistic cataloging to SDSS images for my college senior thesis, I later extended the methodology during my PhD to coherently model point-like and diffuse signals in astronomical images, leading to a measurement of the ICM temperature for galaxy cluster RXJ 1347 through the thermal and relativistic Sunyaev-Zel'dovich effect <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ac6c04">Butler+Feder 2022</a>) and the publication of the code PCAT-DE, with documentation available <a href="https://pcat-de.readthedocs.io/en/latest/">here</a> and implementation detailed in <a href="https://iopscience.iop.org/article/10.3847/1538-3881/ace69b">Feder et al. 2023</a>. The code is flexible and has been made available for use by the broader astronomy community.
+</p>
+
+<div class="text-center">
+  <p align="center">
+  <figure>
+<!--   <img align="center" width="600" src='img/real_gen_res.jpg' alt="Subvols"/> -->
+  <img align="center" width="600" src='/img/pcatde.gif' alt="PCAT-DE"/>
+  </figure>
+    <figcaption>
+      A collection of thinned samples from PCAT-DE run on Herschel-SPIRE 250 micron data in the Small Magellanic Cloud, highlighting robust separation of point sources and diffuse galactic cirrus.
+    </figcaption>
+  </p>
+  </div>
+
+
+</div>
+
+
+
+
 
 
 <!-- </details> -->
