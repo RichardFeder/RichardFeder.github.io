@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Papers
+title: Publications
 ---
 
 <!-- <input type="button" onClick="document.getElementById('pcat-de').scrollIntoView();" />
@@ -98,14 +98,7 @@ Abstract: Probabilistic cataloging (PCAT) outperforms traditional cataloging met
 <img width="400" src='/img/sdss_r_magbins.png' alt="False Discovery Rate"/>
 </figure>
 </p>
-
 </div>
-
-<div class="text-left" id="other">
-<h2>Other selected publications</h2>
-
-</div>
-
 
 
    
