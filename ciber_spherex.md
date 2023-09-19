@@ -47,9 +47,10 @@ I am also a member of the <a href="https://spherex.caltech.edu/">SPHEREx</a> cos
 <div class="text-center">
 <p align="center">
   <figure>
+  <img src="/img/spherex.jpeg" width="600" alt="spherex" />
   <img src="/img/sphx_spectrum.jpeg" width="600" alt="spherex spectra" />
    <figcaption>
-      Two examples of synthetic SPHEREx photometry. Both quiescent galaxies and emission line galaxies contain important redshift information! (Feder et al. 2023, in prep.)
+      Left: Artist rendering of SPHEREx. Credit: NASA/JPL. Right: Two examples of synthetic SPHEREx photometry. Both quiescent galaxies and emission line galaxies contain important redshift information! (Feder et al. 2023, in prep.)
     </figcaption>
   </figure>
 </p>
