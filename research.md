@@ -9,6 +9,22 @@ title: Publications
 
 <input type="button" onClick="document.getElementById('gan').scrollIntoView();" /> -->
 
+<div class="text-left" id="spherex-galaxy">
+<!-- <details> -->
+<!-- <summary>    -->
+  <h2 class="post-title">The Universe SPHEREx Will See: Empirically Based Galaxy Simulations and Redshift Predictions
+</h2>
+  <a>Accepted to ApJ, <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ad596d">link here</a>.
+<br>
+<p>
+Abstract: We simulate galaxy properties and redshift estimation for SPHEREx, the next NASA Medium Class Explorer. To make robust models of the galaxy population and test spectro-photometric redshift performance for SPHEREx, we develop a set of synthetic spectral energy distributions based on detailed fits to COSMOS2020 photometry spanning 0.1-8 micron. Given that SPHEREx obtains low-resolution spectra, emission lines will be important for some fraction of galaxies. Here we expand on previous work, using better photometry and photometric redshifts from COSMOS2020, and tight empirical relations to predict robust emission line strengths and ratios. A second galaxy catalog derived from the GAMA survey is generated to ensure the bright (mAB<18 in the i-band) sample is representative over larger areas. Using template fitting to estimate photometric continuum redshifts, we forecast redshift recovery of 19 million galaxies over 30000 sq. deg. with σz<0.003(1+z), 445 million with σz<0.1(1+z) and 810 million with σz<0.2(1+z). We also find through idealized tests that emission line information from spectrally dithered flux measurements can yield redshifts with accuracy beyond that implied by the naive SPHEREx channel resolution, motivating the development of a hybrid continuum-line redshift estimation approach. </p>
+  <br>
+  <p>
+We have released the full set of simulated SEDs, which span 0.1-8 micron, and synthetic emission line catalogs from this work on <a href="https://zenodo.org/records/11406518">Zenodo</a>. The simulations are readily adaptable and can be used in multi-survey predictions beyond SPHEREx science cases.  
+
+  </p>
+</div>
+
 
 <div class="text-left" id="pcat-de">
 <!-- <details> -->
