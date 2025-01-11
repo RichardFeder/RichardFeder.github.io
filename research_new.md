@@ -18,6 +18,7 @@ We simulate galaxy properties and redshift estimation for SPHEREx, the next NASA
 <a>Accepted to ApJ, <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ad596d">link here</a>.
   <br>
   <p>
+We have released the full set of simulated SEDs, which span 0.1-8 micron, and synthetic emission line catalogs from this work on <a href="https://zenodo.org/records/11406518">Zenodo</a>. The simulations are readily adaptable and can be used in multi-survey predictions beyond SPHEREx science cases.  
 
   </p>
 </div>
