@@ -273,14 +273,15 @@ body {
 
 /* Publications layout */
 .publications-grid {
-  display: grid;
+  display: grid !important;
   grid-template-columns: 1fr 1fr;
   gap: 40px;
   margin-top: 20px;
+  text-align: left;
 }
 
 .publication-column {
-  display: flex;
+  display: flex !important;
   flex-direction: column;
   gap: 30px;
 }
@@ -355,10 +356,13 @@ body {
   font-weight: 600;
   cursor: pointer;
   font-size: 0.9em;
+  display: inline-block;
+  margin-top: 5px;
 }
 
 .read-more:hover {
   text-decoration: underline;
+  color: #0c2f55;
 }
 
 @media only screen and (max-width: 992px) {
