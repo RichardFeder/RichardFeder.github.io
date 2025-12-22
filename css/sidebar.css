@@ -71,7 +71,7 @@ layout: null
 .sidebar-menu .nav-link {
   display: block;
   padding: 12px 25px;
-  color: {{ site.navbar-text-col }};
+  color: #ffffff;
   text-transform: uppercase;
   font-size: 13px;
   font-weight: 600;
@@ -107,15 +107,27 @@ layout: null
 }
 
 /* Main content adjustment for sidebar */
-.main-content {
+.main-content,
+.container {
   margin-left: 260px !important;
   padding-top: 40px !important;
 }
 
+.container {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
 @media only screen and (min-width: 768px) {
-  .main-content {
+  .main-content,
+  .container {
     padding-top: 60px !important;
   }
+}
+
+/* Section titles styling */
+.content-section h2.post-title {
+  color: #ffffff !important;
 }
 
 /* Mobile responsiveness */
@@ -129,7 +141,8 @@ layout: null
     transform: translateX(0);
   }
   
-  .main-content {
+  .main-content,
+  .container {
     margin-left: 0 !important;
   }
 }
