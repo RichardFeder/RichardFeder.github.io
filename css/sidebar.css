@@ -84,31 +84,32 @@ h1, h2, h3, h4, h5, h6 {
   list-style: none;
 }
 
-.sidebar-menu .nav-link {
-  display: block;
-  padding: 12px 25px;
-  color: #00d4ff;
-  text-transform: uppercase;
-  font-size: 14px;
-  font-weight: 700;
-  letter-spacing: 0.5px;
-  text-decoration: none;
-  transition: all 0.3s ease;
-  border-left: 3px solid transparent;
+.sidebar-nav .sidebar-menu .nav-link {
+  display: block !important;
+  padding: 12px 25px !important;
+  color: #ffffff !important;
+  text-transform: uppercase !important;
+  font-size: 15px !important;
+  font-weight: 600 !important;
+  letter-spacing: 1.5px !important;
+  text-decoration: none !important;
+  transition: all 0.3s ease !important;
+  border-left: 3px solid transparent !important;
+  font-family: 'Inter', sans-serif !important;
 }
 
-.sidebar-menu .nav-link:hover,
-.sidebar-menu .nav-link:focus {
-  color: #ffffff;
-  background-color: rgba(255, 255, 255, 0.05);
-  border-left-color: #00d4ff;
-  text-decoration: none;
+.sidebar-nav .sidebar-menu .nav-link:hover,
+.sidebar-nav .sidebar-menu .nav-link:focus {
+  color: #00d4ff !important;
+  background-color: rgba(255, 255, 255, 0.05) !important;
+  border-left-color: #00d4ff !important;
+  text-decoration: none !important;
 }
 
-.sidebar-menu .nav-link.active {
-  color: #ffffff;
-  background-color: rgba(255, 255, 255, 0.1);
-  border-left-color: #00d4ff;
+.sidebar-nav .sidebar-menu .nav-link.active {
+  color: #00d4ff !important;
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  border-left-color: #00d4ff !important;
 }
 
 .sidebar-menu .sub-menu {
