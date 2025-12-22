@@ -87,11 +87,11 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar-menu .nav-link {
   display: block;
   padding: 12px 25px;
-  color: #ffffff;
+  color: #00d4ff;
   text-transform: uppercase;
   font-size: 13px;
-  font-weight: 600;
-  letter-spacing: 1px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
   text-decoration: none;
   transition: all 0.3s ease;
   border-left: 3px solid transparent;
@@ -99,16 +99,16 @@ h1, h2, h3, h4, h5, h6 {
 
 .sidebar-menu .nav-link:hover,
 .sidebar-menu .nav-link:focus {
-  color: {{ site.hover-col }};
+  color: #ffffff;
   background-color: rgba(255, 255, 255, 0.05);
-  border-left-color: {{ site.hover-col }};
+  border-left-color: #00d4ff;
   text-decoration: none;
 }
 
 .sidebar-menu .nav-link.active {
   color: #ffffff;
   background-color: rgba(255, 255, 255, 0.1);
-  border-left-color: {{ site.hover-col }};
+  border-left-color: #00d4ff;
 }
 
 .sidebar-menu .sub-menu {
