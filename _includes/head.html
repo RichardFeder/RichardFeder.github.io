@@ -28,6 +28,9 @@
       <link rel="stylesheet" href="{{ css | relative_url }}" />
     {% endfor %}
   {% endif %}
+  
+  <!-- Sidebar CSS -->
+  <link rel="stylesheet" href="{{ '/css/sidebar.css' | relative_url }}" />
 
   {% if layout.common-googlefonts %}
     {% for font in layout.common-googlefonts %}
