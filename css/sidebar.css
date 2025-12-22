@@ -4,6 +4,19 @@ layout: null
 
 /* --- Left Sidebar Navigation --- */
 
+body {
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+}
+
+body p, body li {
+  font-family: 'Merriweather', 'Georgia', serif;
+  line-height: 1.8;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+}
+
 .sidebar-nav {
   position: fixed;
   left: 0;
@@ -30,8 +43,8 @@ layout: null
 }
 
 .sidebar-avatar-img {
-  width: 80px;
-  height: 80px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
   border: 3px solid rgba(255, 255, 255, 0.2);
   transition: all 0.3s ease;
@@ -137,13 +150,13 @@ body {
   left: 260px;
   right: 0;
   bottom: 0;
-  background: rgba(255, 255, 255, 0.92);
+  background: rgba(255, 255, 255, 0.80);
   z-index: -1;
 }
 
 .content-section {
   position: relative;
-  background: rgba(255, 255, 255, 0.85);
+  background: rgba(255, 255, 255, 0.75);
   padding: 60px 40px;
   margin-bottom: 0;
   border-radius: 8px;

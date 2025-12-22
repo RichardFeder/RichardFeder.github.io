@@ -37,6 +37,11 @@
       <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
     {% endfor %}
   {% endif %}
+  
+  <!-- Better fonts for cleaner look -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
 
   {% if page.ext-css %}
     {% for css in page.ext-css %}
