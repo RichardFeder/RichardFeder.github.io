@@ -215,3 +215,51 @@ body {
 .navbar-custom .avatar-container {
   display: none !important;
 }
+
+/* Project collapsible sections */
+.project-item {
+  margin-bottom: 20px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.6);
+}
+
+.project-title {
+  cursor: pointer;
+  padding: 20px;
+  margin: 0;
+  font-size: 1.3em;
+  font-weight: 700;
+  color: #0c2f55;
+  background: rgba(255, 255, 255, 0.9);
+  transition: background-color 0.3s ease;
+  user-select: none;
+}
+
+.project-title:hover {
+  background: rgba(255, 255, 255, 1);
+}
+
+.toggle-icon {
+  display: inline-block;
+  margin-right: 10px;
+  font-size: 0.8em;
+  transition: transform 0.3s ease;
+}
+
+.project-title.active .toggle-icon {
+  transform: rotate(90deg);
+}
+
+.project-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease;
+  padding: 0 20px;
+}
+
+.project-content.expanded {
+  max-height: 5000px;
+  padding: 0 20px 20px 20px;
+}
