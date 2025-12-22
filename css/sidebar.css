@@ -332,6 +332,11 @@ body {
   font-style: italic;
 }
 
+.pub-authors .author-highlight {
+  color: #ffffff;
+  font-weight: 600;
+}
+
 .pub-abstract {
   font-size: 0.95em;
   line-height: 1.6;
