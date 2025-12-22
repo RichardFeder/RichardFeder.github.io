@@ -20,9 +20,10 @@ avatar-height: 80
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Projects: "ciber_spherex"
-  Publications: "research"
+  Home: ""
+  About Me: "#about"
+  Projects: "#projects"
+  Publications: "#publications"
   Curriculum Vitae: Richard_Feder_CV_091823.pdf
 
 

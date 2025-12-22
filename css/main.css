@@ -780,3 +780,44 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+/* --- Smooth Scrolling Single Page --- */
+
+html {
+  scroll-behavior: smooth;
+}
+
+.content-section {
+  padding: 80px 0;
+  min-height: 400px;
+}
+
+.content-section:first-of-type {
+  padding-top: 40px;
+}
+
+/* Offset anchor links to account for fixed navbar */
+.content-section[id]::before {
+  content: '';
+  display: block;
+  height: 100px;
+  margin-top: -100px;
+  visibility: hidden;
+}
+
+@media only screen and (min-width: 768px) {
+  .content-section[id]::before {
+    height: 130px;
+    margin-top: -130px;
+  }
+}
+
+/* Add visual separation between sections */
+.content-section:not(:first-of-type) {
+  border-top: 1px solid #eaeaea;
+}
+
+/* Highlight active nav link on scroll */
+.navbar-custom .nav li a.active {
+  color: {{ site.hover-col }};
+  border-bottom: 2px solid {{ site.hover-col }};
+}
