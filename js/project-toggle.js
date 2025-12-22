@@ -19,3 +19,25 @@ function toggleProject(element) {
 
 // Make sure the function is available globally
 window.toggleProject = toggleProject;
+
+// Toggle publication abstracts
+function toggleAbstract(event, element) {
+  event.preventDefault();
+  const abstractDiv = element.previousElementSibling;
+  const preview = element.parentElement.querySelector('.abstract-preview');
+  
+  if (abstractDiv.classList.contains('show')) {
+    // Collapse
+    abstractDiv.classList.remove('show');
+    preview.style.display = 'block';
+    element.textContent = 'Read more';
+  } else {
+    // Expand
+    abstractDiv.classList.add('show');
+    preview.style.display = 'none';
+    element.textContent = 'Read less';
+  }
+}
+
+// Make sure the function is available globally
+window.toggleAbstract = toggleAbstract;
