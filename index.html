@@ -145,6 +145,22 @@ title: Richard M. Feder
 			<!-- Paper 1 -->
 			<div class="publication-item">
 				<div class="pub-header">
+					<h4 class="pub-title"><a href="https://arxiv.org/abs/2603.24668">A Probabilistic Autoencoder for Galaxy SED Reconstruction and Redshift Estimation: Application to Mock SPHEREx Spectrophotometry</a></h4>
+					<span class="pub-date">Mar 2026</span>
+				</div>
+				<p class="pub-authors"><span class="author-highlight">RM Feder</span>, L Parker, U Seljak</p>
+				<div class="pub-abstract">
+					<p class="abstract-preview">We present a probabilistic autoencoder framework for galaxy spectral energy distribution modeling and redshift estimation, applied to synthetic SPHEREx 102-band spectrophotometry. In controlled tests on simulated SPHEREx spectra, the model improves source recovery, outlier rate, and posterior calibration relative to template fitting...</p>
+					<div class="abstract-full">
+						<p>We present a probabilistic autoencoder (PAE) framework for galaxy spectral energy distribution (SED) modeling and redshift estimation, applied to synthetic SPHEREx 102-band spectrophotometry. Our PAE learns a compact latent representation of rest-frame galaxy SEDs transformed to a simple Gaussian base density using a normalizing flow, combined with an explicit forward model enabling joint Bayesian inference over intrinsic SED parameters and redshift with well-defined priors. In controlled tests on simulated SPHEREx spectra, our PAE improves on template fitting (TF) in source recovery, outlier rate, and posterior calibration, with trade-offs in redshift performance that depend on the assumed priors. A simple cut on the ratio of PAE and TF uncertainties identifies sources that are overwhelmingly TF outliers, which can be used to clean existing TF samples while retaining the vast majority of well-recovered sources. By directly profiling over PAE latent variables, we show these cases correspond to shallow likelihood surfaces where the PAE's continuous SED manifold produces broader likelihoods that more faithfully reflect the lack of constraining power in the data, whereas the TF discrete model grid yields artificially confident but incorrect redshift estimates. Lastly, we present an alternative, simulation-based inference approach using a Transformer encoder and conditional normalizing flow, which provides similar redshift performance to the PAE but with approximately 200x faster inference throughput. Our implementation, PAESpec, is publicly available and provides a foundation for principled redshift estimation in modern photometric surveys.</p>
+					</div>
+					<span class="read-more" onclick="toggleAbstract(event, this)">Read more</span>
+				</div>
+			</div>
+
+			<!-- Paper 2 -->
+			<div class="publication-item">
+				<div class="pub-header">
 					<h4 class="pub-title"><a href="https://arxiv.org/abs/2512.06568">Angular BAO Forecasts for the IBIS Medium-Band Survey</a></h4>
 					<span class="pub-date">Dec 2025</span>
 				</div>
@@ -158,7 +174,7 @@ title: Richard M. Feder
 				</div>
 			</div>
 
-			<!-- Paper 2 -->
+			<!-- Paper 3 -->
 			<div class="publication-item">
 				<div class="pub-header">
 					<h4 class="pub-title"><a href="https://arxiv.org/abs/2501.17933">CIBER 4th flight fluctuation analysis: Measurements of near-IR auto- and cross-power spectra on arcminute to sub-degree scales</a></h4>
@@ -174,7 +190,7 @@ title: Richard M. Feder
 				</div>
 			</div>
 
-			<!-- Paper 3 -->
+			<!-- Paper 4 -->
 			<div class="publication-item">
 				<div class="pub-header">
 					<h4 class="pub-title"><a href="https://arxiv.org/abs/2501.17932">CIBER 4th flight fluctuation analysis: Pseudo-power spectrum formalism, improved source masking and validation on mocks</a></h4>
@@ -190,7 +206,11 @@ title: Richard M. Feder
 				</div>
 			</div>
 
-			<!-- Paper 4 -->
+		</div>
+
+		<!-- Column 2 -->
+		<div class="publication-column">
+			<!-- Paper 5 -->
 			<div class="publication-item">
 				<div class="pub-header">
 					<h4 class="pub-title"><a href="https://iopscience.iop.org/article/10.3847/1538-4357/ad596d">The Universe SPHEREx Will See: Empirically Based Galaxy Simulations and Redshift Predictions</a></h4>
@@ -207,11 +227,7 @@ title: Richard M. Feder
 				</div>
 			</div>
 
-		</div>
-
-		<!-- Column 2 -->
-		<div class="publication-column">
-			<!-- Paper 5 -->
+			<!-- Paper 6 -->
 			<div class="publication-item">
 				<div class="pub-header">
 					<h4 class="pub-title"><a href="https://iopscience.iop.org/article/10.3847/1538-3881/ace69b">PCAT-DE: Reconstructing Pointlike and Diffuse Signals in Astronomical Images Using Spatial and Spectral Information</a></h4>
@@ -227,7 +243,7 @@ title: Richard M. Feder
 				</div>
 			</div>
 
-			<!-- Paper 6 -->
+			<!-- Paper 7 -->
 			<div class="publication-item">
 				<div class="pub-header">
 					<h4 class="pub-title"><a href="https://iopscience.iop.org/article/10.3847/1538-4357/ac6c04">Measurement of the Relativistic Sunyaev–Zeldovich Correction in RX J1347.5-1145</a></h4>
@@ -243,7 +259,7 @@ title: Richard M. Feder
 				</div>
 			</div>
 
-			<!-- Paper 7 -->
+			<!-- Paper 8 -->
 			<div class="publication-item">
 				<div class="pub-header">
 					<h4 class="pub-title"><a href="https://arxiv.org/abs/2005.03050">Nonlinear 3D Cosmic Web Simulation with Heavy-Tailed Generative Adversarial Networks</a></h4>
@@ -259,7 +275,7 @@ title: Richard M. Feder
 				</div>
 			</div>
 
-			<!-- Paper 8 -->
+			<!-- Paper 9 -->
 			<div class="publication-item">
 				<div class="pub-header">
 					<h4 class="pub-title"><a href="https://iopscience.iop.org/article/10.3847/1538-3881/ab74cf">Multi-band Probabilistic Cataloging: A Joint Fitting Approach to Point-source Detection and Deblending</a></h4>
