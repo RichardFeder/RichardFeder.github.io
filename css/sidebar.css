@@ -401,15 +401,6 @@ body {
   text-decoration: underline;
 }
 
-.code-meta {
-  margin: 0 0 10px 0;
-  font-size: 0.88em;
-  font-weight: 600;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #666;
-}
-
 .code-description {
   margin: 0 0 12px 0;
   font-size: 0.95em;
